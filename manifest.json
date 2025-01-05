@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Job Tracker ",
+    "version": "1.0",
+    "description": "Extract job keywords and display them in a popup.",
+    "permissions": ["activeTab", "scripting", "notifications", "storage"],
+    "host_permissions": ["*://*/*"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "action": {
+        "default_popup": "popup.html"
+        
+        
+    }
+    
+}
+
