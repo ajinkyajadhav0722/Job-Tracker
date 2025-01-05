@@ -1,16 +1,15 @@
 # 🚀 Job Tracker: Empower Your Career Journey
-[![Job Tracker Demo](images/job.png)]
+![Job Tracker Demo](images/job.png)
 
 ---
 
 ## 📝 Overview
-**Job Tracker** is your smart assistant for simplifying the job application process. As a **Chrome Extension**, it streamlines the tedious task of collecting job details, extracting relevant keywords, and aligning your resume with industry trends. Built as an MVP, this extension empowers job seekers to **save time**, **analyze opportunities**, and **gain insights** to secure their dream roles.
+**Job Tracker** is your smart assistant for simplifying the job application process. As a **Chrome Extension**, it streamlines the tedious task of collecting job details, and aligning your resume with industry trends. Built as an MVP, this extension empowers job seekers to **save time**, **analyze opportunities**, and **gain insights** to secure their dream roles.
 
 ---
 
 ## 💡 Problem Statement
 Navigating through countless job postings is overwhelming, and tailoring resumes for each application can be daunting. Job seekers often miss opportunities because:
-- Keywords from job descriptions don't align with their resumes.
 - Manual tracking of job details is inefficient.
 - Insights about market trends remain untapped.
 
